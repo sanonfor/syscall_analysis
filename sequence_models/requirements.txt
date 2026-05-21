@@ -1,0 +1,10 @@
+tensorflow==2.15.0
+keras_tuner
+keras-nlp
+tqdm
+jupyterlab==4.0.*
+matplotlib==3.5.*
+scikit-learn==1.3.*
+numpy==1.*
+regex # Unspecified dependency of keras-nlp
+urllib3<2.0 # Fix warning on macOS
